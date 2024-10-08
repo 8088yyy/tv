@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="Discovery+",Animal Planet
+https://rentry.co/8088yyy-AnimalPlanet/raw?.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/500px-DMAX_BLACK.svg.png" group-title="Discovery+",DMAX
+https://rentry.co/8088yyy-DMAX/raw?.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_English.png" group-title="Discovery+",Discovery Channel
+https://rentry.co/8088yyy-DiscoveryChannel/raw?.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/500px-2016_Discovery_Kids_logo.svg.png" group-title="Discovery+",Discovery Kids
+https://rentry.co/8088yyy-DiscoveryKids/raw?.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="Discovery+",Discovery Science
+https://rentry.co/8088yyy-DiscoveryScience/raw?.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="Discovery+",Discovery Turbo
+https://rentry.co/8088yyy-DiscoveryTurbo/raw?.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dsports.png" group-title="Discovery+",Eurosport
+https://rentry.co/8088yyy-Eurosport/raw?.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/500px-Food_Network_logo.svg.png" group-title="Discovery+",Food Network
+https://rentry.co/8088yyy-FoodNetwork/raw?.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/500px-HGTV_2010.svg.png" group-title="Discovery+",HGTV
+https://rentry.co/8088yyy-HGTV/raw?.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ID.png" group-title="Discovery+",Investigation Discovery
+https://rentry.co/8088yyy-InvestigationDiscovery/raw?.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TLC_HD_World.png" group-title="Discovery+",TLC
+https://rentry.co/8088yyy-TLC/raw?.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/500px-2018_Travel_Channel_logo.svg.png" group-title="Discovery+",TRVL Channel
+https://rentry.co/8088yyy-TRVLChannel/raw?.m3u8
