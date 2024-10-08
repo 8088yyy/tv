@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" group-logo="https://www.epicon.in/assets/img/epicon-logo.png" tvg-logo="https://epicon.in/img/epic-tv.png" group-title="EpiCon" group-logo="https://www.epicon.in/assets/img/epicon-logo.pngg",Epic TV
+https://epiconvh.s.llnwi.net/epic/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-logo="https://www.epicon.in/assets/img/epicon-logo.png" tvg-logo="https://epicon.in/img/gubbare-logo.png" group-title="EpiCon" group-logo="https://www.epicon.in/assets/img/epicon-logo.pngg",Gubbare TV
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-logo="https://www.epicon.in/assets/img/epicon-logo.png" tvg-logo="https://epicon.in/img/ishara-logo.png" group-title="EpiCon" group-logo="https://www.epicon.in/assets/img/epicon-logo.pngg",Ishaara TV
+https://epiconvh.s.llnwi.net/ishaara/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-logo="https://www.epicon.in/assets/img/epicon-logo.png" tvg-logo="https://epicon.in/img/new-show-box-logo.png" group-title="EpiCon" group-logo="https://www.epicon.in/assets/img/epicon-logo.pngg",Showbox
+https://epiconvh.s.llnwi.net/showbox/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-logo="https://www.epicon.in/assets/img/epicon-logo.png" tvg-logo="https://epicon.in/img/nazara-logo.png" group-title="EpiCon" group-logo="https://www.epicon.in/assets/img/epicon-logo.pngg",Nazara
+https://epiconvh.s.llnwi.net/nazara/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-logo="https://www.epicon.in/assets/img/epicon-logo.png" tvg-logo="https://epicon.in/img/new_filamchi_logo.png" group-title="EpiCon" group-logo="https://www.epicon.in/assets/img/epicon-logo.pngg",Filmachi Bhojpuri
+https://epiconvh.s.llnwi.net/filamchi/master.m3u8

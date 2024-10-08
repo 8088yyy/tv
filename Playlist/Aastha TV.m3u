@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" group-logo="https://d2ivesio5kogrp.cloudfront.net/static/aastha/images/aastha_logo_white.png" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/vwnnbv.jpeg" group-title="Aastha TV",Aatha Tamil
+https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-logo="https://d2ivesio5kogrp.cloudfront.net/static/aastha/images/aastha_logo_white.png" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/ycbqly.jpeg" group-title="Aastha TV",Aastha HD
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-logo="https://d2ivesio5kogrp.cloudfront.net/static/aastha/images/aastha_logo_white.png" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/cbgzfa.jpeg" group-title="Aastha TV",Aastha Bhajan
+https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-logo="https://d2ivesio5kogrp.cloudfront.net/static/aastha/images/aastha_logo_white.png" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/oognna.jpeg" group-title="Aastha TV",Dharm Sandesh
+https://aasthaott.akamaized.net/110923/smil:arihant.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-logo="https://d2ivesio5kogrp.cloudfront.net/static/aastha/images/aastha_logo_white.png" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/iklzje.jpeg" group-title="Aastha TV",Vedic
+https://aasthaott.akamaized.net/110923/smil:vedic.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-logo="https://d2ivesio5kogrp.cloudfront.net/static/aastha/images/aastha_logo_white.png" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/txbmsf.png" group-title="Aastha TV",Aastha Prime
+https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-logo="https://d2ivesio5kogrp.cloudfront.net/static/aastha/images/aastha_logo_white.png" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/pqeztp.jpeg" group-title="Aastha TV",Aastha Gujarati
+https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-logo="https://d2ivesio5kogrp.cloudfront.net/static/aastha/images/aastha_logo_white.png" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/iilpuo.jpeg" group-title="Aastha TV",Aastha Telugu
+https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-logo="https://d2ivesio5kogrp.cloudfront.net/static/aastha/images/aastha_logo_white.png" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/ndgvsw.jpeg" group-title="Aastha TV",Aastha Kannada
+https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-logo="https://d2ivesio5kogrp.cloudfront.net/static/aastha/images/aastha_logo_white.png" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/jkkdzm.jpeg" group-title="Aastha TV",Aastha UK
+https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-logo="https://d2ivesio5kogrp.cloudfront.net/static/aastha/images/aastha_logo_white.png" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/etsrwx.jpeg" group-title="Aastha TV",Aastha USA
+https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8

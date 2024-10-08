@@ -1,0 +1,163 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml"
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad3cb242cde3b687e2398cd21eb9bd10:6ed9b4976a854a289ce62cac957a55d5
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Colors_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Indian",  Colors Hindi HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72499c6ad44cc37d95a9075420911110:b5416326114a13e90662a4fbaf3c532b
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Vaanavil_v2.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Indian", Astro Vaanavil HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7737edd1d67824fa70df73154bf8110:68c5db3b309fab5503a6fdb580ddf281
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Vinmeen2024.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Indian", Astro Vinmeen HD
+https://linears-playback.astro.com.my/vsg/41_qNF20AwuNZV3YAE5GvjDlRJNred3BLcv-2MAhexf2E=8vD2/dash-wv/jitp-linearwm/2105/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/399_144.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Indian", Astro Vellithirai HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=83076ff2f68d1764b559c432ab49ca10:ebdf56ba4a3562cc82053a2952975432
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sun_TV_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Indian", Sun TV HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=beaca9461f7ca0d58ba529fed2e7b610:da0a70148e126eb40cce02665753896d
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sun_Music_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Indian", Sun Music HD 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=859f5b2054c4073e8f0da463d208b910:5eb3762b1a4631a0b98e25e23cef0193
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Adithiya_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Indian", Adithya
+https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af35608a7d4b13d1158c2ef6d6c1a010:d01c81050dfab309c6be7e60d03c2d82
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Star_Vijay_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Indian", Star Vijay HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e46354fb39c28e5956bc946ac2a05010:511905bf191474b412b4ec117515a79c
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Colors-Tamil_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Indian", Colors Tamil HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d4e3e7dac2d58b93bf819a72fe8d510:667a33f4d5bb3587f2d5209886839eac
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeTamil_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Indian", Zee Tamil HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_BoxOffice_Movies_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Indian", ABO Movies Thangathirai HD
+https://linears-playback.astro.com.my/vsg/41GIrK80n_KdtqtE-0_xRZIjUVN773qSE_JPjbCJIYajo=WkXN/dash-wv/jitp-linearwm/2109/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Indian", Zee Cinema
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Sports", Astro Arena HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Sports", Astro Arena 2 HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Sports", Arena Bola
+https://mt24.aa.astro.com.my/linears-playback.astro.com.my/vsg/41XySZ-WG3SkTZJYHLDUKROF3y1dGJuHAivzwXoKMP7Ok=UrIZ/dash-wv/jitp-linearwm/5099/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Sports", Arena Bola 2
+https://linears-playback.astro.com.my/vsg/41CUtwQsrqw9nQdAIXIsBVw8XjLktU9MROAoRMaFniYwA=Olv0/dash-wv/jitp-linearwm/5100/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=22fbef1c1cd725e9397ec16455f08210:7aea43cd93c24aa9834ecb4984f7fd5a
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Sports", Astro Supersport UHD 1
+https://linears-playback.astro.com.my/vsg/416dnqNRpD7L4GhCwIXUpREKurTb-GgxYoJJv0mCvzpQw=xJGy/dash-wv/jitp-linearwm/1601/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Sports", SPOTV2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Sports", Astro SuperSport HD
+https://linears-playback.astro.com.my/vsg/41n-MgCuFelCyF9KpN_in-tiqNDcZNyyL1wREBh_s9Uj4=PzNj/dash-wv/jitp-linearwm/601/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Sports", Astro SuperSport 2 HD
+https://linears-playback.astro.com.my/vsg/41s2vCSmOKF3qOYpV6b_CtZFT4XJJBtmZiWELUD6KhWPU=0jTM/dash-wv/jitp-linearwm/2104/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Sports", Astro SuperSport 3 HD
+https://mt28.aa.astro.com.my/linears-playback.astro.com.my/vsg/41nCA4SsZ_YKNFazan5znptyAbYoZlpQo9EDazvXj9fog=Yrth/dash-wv/jitp-linearwm/2701/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Sports", Astro SuperSports 4 HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=010cbb9cf1a01ead38070730d38bc710:9cd5c0d1e54c22e035d88dd3c1dfc84c
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Sports", W-Sport
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Sports", SPOTV
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Sports", beIN Sports 2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORT1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Sports", BeIN Sports 1
+https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Sports", beIN Sports 3
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4db23a41babfe9afc222a58c59828310:d0e794e3cff564ed2c720a098eb177c7
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Sports", Eurosport HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0cbc4d3b4fbd9af512acb2488bb42910:30528c4ef882954e5707cd1001d66121
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/WWE_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Sports", WWE Network HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Golf_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Sports", Golf Channel HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Sports", Premier Sports
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro-Cricket_2024.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Sports", Astro Cricket HD
+

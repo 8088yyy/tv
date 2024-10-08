@@ -1,0 +1,70 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="Chennai", Chennai FM Rainbow 101.4 FM
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio022/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Chennai", Radio Mirchi Tamil 98.3 FM
+https://tamil.crabdance.com:8002/1
+#EXTINF:-1 tvg-logo="" group-title="Chennai", Suryan 93.5 FM
+https://tamil.crabdance.com:8002/2
+#EXTINF:-1 tvg-logo="" group-title="Chennai", Vividh Bharati 100.5 FM
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio024/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Chennai", Radio City 91.1 FM
+https://tamil.crabdance.com:8002/5
+#EXTINF:-1 tvg-logo="" group-title="Chennai", Radio Hello 106.4 FM
+https://stream-157.zeno.fm/20cv0z9gg0quv
+#EXTINF:-1 tvg-logo="" group-title="Chennai", BIG 92.7 FM
+https://tamil.crabdance.com:8002/4
+#EXTINF:-1 tvg-logo="" group-title="Chennai", Radio ChennaiLive 104.8 FM
+https://vobook.ru/http://c2.radioboss.fm:8332/stream
+#EXTINF:-1 tvg-logo="" group-title="Chennai", Air FM Gold Chennai
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio021/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Chennai", All India Radio AIR CHENNAI PC 720 AM
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Chennai", Radio Raaja FM
+https://vobook.ru/http://live.tamilkuyilradio.com:8026/rajaradio
+#EXTINF:-1 tvg-logo="" group-title="Chennai", Radio Naam Tamilar FM
+https://www.liveradio.es/http://stream.zeno.fm/31gmzkvdh6quv
+
+#EXTINF:-1 tvg-logo="" group-title="Coimbatore", Air Rainbow 103 FM
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio017/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Coimbatore", Radio Hello 106.4 FM
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio022/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Coimbatore", All India Radio AIR Coimbatore 999 AM
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio016/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Madurai", All India Radio Air Akashvani 103.3 FM
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio00264kbps.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Madurai", SS Radio Madurai
+https://stream-172.zeno.fm/3dact43wqg0uv
+
+#EXTINF:-1 tvg-logo="" group-title="Tiruchirappalli", Air Rainbow 102.1 FM
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00464kbps.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tiruchirappalli", All India Radio AIR Tiruchirappalli FM 102.1 FM
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio040/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Salem", All India Radio Air Akashvani 100.9 FM
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio00264kbps.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tirunelveli", All India Radio Air Akashvani 102.6 FM
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio00264kbps.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Kodaikanal", All India Radio AIR Kodaikanal
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio051/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Thoothukudi", All India Radio AIR Tuticorin 1053 AM
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio121/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Nagercoil", All India Radio AIR Nagercoil Kumari FM 101 FM
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio207/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Thanjavur", Air Rainbow 101.2 FM
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00464kbps.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vellore", Mjoy Mjms FM
+http://stream-163.zeno.fm/e7yqb8fe84zuv
+
+#EXTINF:-1 tvg-logo="" group-title="Karur", Thedal FM
+https://thedalfm.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="" group-title="Dharmapuri", All India Radio Air Akashvani 102.5 FM
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio00264kbps.m3u8

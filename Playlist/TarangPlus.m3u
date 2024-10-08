@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://hls.tarangplus.in/tpimages/otvoutputimages/OTV/5d5d22e119521d8a3d000001/large_16_9.jpg" group-logo="https://tarangplus.in/assets/main_logo.png" group-title="Tarang Plus",Odisha TV
+https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://hls.tarangplus.in/tpimages/otvoutputimages/Alankar/5d6f53d919521d984a000001/large_16_9.jpg" group-logo="https://tarangplus.in/assets/main_logo.png" group-title="Tarang Plus",Alankar
+https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://hls.tarangplus.in/otvoutputimages/Tarang-TV/5d6f556119521ddc4b00000d/large_16_9.jpg" group-logo="https://tarangplus.in/assets/main_logo.png" group-title="Tarang Plus",Tarang TV
+https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://hls.tarangplus.in/tpimages/otvoutputimages/Prarthana-TV/5d6f56ef19521ddc4b000010/large_16_9.jpg" group-logo="https://tarangplus.in/assets/main_logo.png" group-title="Tarang Plus",Prarthana TV
+https://livetv.tarangplus.in/prarthana-origin/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://hls.tarangplus.in/tpimages/otvoutputimages/Tarang-Music/5d81cea319521d511800001b/large_16_9.jpg" group-logo="https://tarangplus.in/assets/main_logo.png" group-title="Tarang Plus",Tarang Music
+https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8

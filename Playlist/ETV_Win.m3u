@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" group-logo="https://www.etvwin.com/assets/img/logo-25.png" tvg-logo="https://etv-win-image.akamaized.net/etvwin/live/channel/89802/etv-plus-320x240.jpg" group-title="ETV Win",ETV Plus
+https://dw56h1aaay8sg.cloudfront.net/v1/master/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_PLUS_H264/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-logo="https://www.etvwin.com/assets/img/logo-25.png" tvg-logo="https://etv-win-image.akamaized.net/etvwin/live/channel/27931/etv-cinema-320x240.jpg" group-title="ETV Win",ETV Cinema
+https://d3l6wdq9op77vw.cloudfront.net/v1/master/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_CINEMA_H264/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-logo="https://www.etvwin.com/assets/img/logo-25.png" tvg-logo="https://etv-win-image.akamaized.net/etvwin/live/channel/47283/etv-life-320x240.jpg" group-title="ETV Win",ETV Life
+https://d1s3zdjcu5tny9.cloudfront.net/v1/master/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_LIFE_H264/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-logo="https://www.etvwin.com/assets/img/logo-25.png" tvg-logo="https://etv-win-image.akamaized.net/etvwin/live/channel/28270/etv-telugu-320x240.jpg" group-title="ETV Win",ETV Telugu
+https://d7rw24rjxc0ra.cloudfront.net/v1/master/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_HD_H264/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-logo="https://www.etvwin.com/assets/img/logo-25.png" tvg-logo="https://etv-win-image.akamaized.net/etvwin/live/channel/37856/etv-abhiruchi-320x240.jpg" group-title="ETV Win",ETV Abhiruchi
+https://d1ukkqluw2r4g5.cloudfront.net/v1/master/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_ABHIRUCHI_H264/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-logo="https://www.etvwin.com/assets/img/logo-25.png" tvg-logo="https://etv-win-image.akamaized.net/etvwin/live/channel/18492/etv-telangana-320x240.jpg" group-title="ETV Win",ETV Telangana
+https://d3ixok5ip38laf.cloudfront.net/v1/master/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_TS_H264/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-logo="https://www.etvwin.com/assets/img/logo-25.png" tvg-logo="https://etv-win-image.akamaized.net/etvwin/live/channel/47688/etv-andhra-pradesh-320x240.jpg" group-title="ETV Win",ETV Andhra Pradesh
+https://d1missilavut3r.cloudfront.net/v1/master/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_AP_H264/index.m3u8

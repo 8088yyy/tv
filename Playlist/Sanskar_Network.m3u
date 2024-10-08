@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" group-logo="https://app.sanskargroup.in/assets/website_assets/images/header-logo.png" tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/56888741566764sanskar.png" group-title="Sanskar Network",Sanskar TV
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-logo="https://app.sanskargroup.in/assets/website_assets/images/header-logo.png" tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/5534104satsang.png" group-title="Sanskar Network",Satsang
+https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-logo="https://app.sanskargroup.in/assets/website_assets/images/header-logo.png" tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/1410047subh_logo_new.png" group-title="Sanskar Network",Subh
+https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-logo="https://app.sanskargroup.in/assets/website_assets/images/header-logo.png" tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/62109032442526sanska_uk.png" group-title="Sanskar Network",Sanskar UK
+https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-logo="https://app.sanskargroup.in/assets/website_assets/images/header-logo.png" tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/2799232sanskar_usa.png" group-title="Sanskar Network",Sanskar USA
+https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-logo="https://app.sanskargroup.in/assets/website_assets/images/header-logo.png" tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/4964141subh_cinema_logo_new.png" group-title="Sanskar Network",Subh Cinema
+https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-logo="https://app.sanskargroup.in/assets/website_assets/images/header-logo.png" tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/6996SANSKAR_DIGITAL.png" group-title="Sanskar Network",Sanskar Digital
+https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-logo="https://app.sanskargroup.in/assets/website_assets/images/header-logo.png" tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/3269519SATSANG_DIGITAL_LOGO.png" group-title="Sanskar Network",Satsang Digital
+https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-logo="https://app.sanskargroup.in/assets/website_assets/images/header-logo.png" tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/5802371total_bhakti_hd.png" group-title="Sanskar Network",Total Bhakti
+https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8

@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/puthiyathalaimurai-black.png" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/YuppTV_logo.svg/2560px-YuppTV_logo.svg.png" group-title="YuppTV" , Puthiya Thalaimurai
+https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/polimer-news-black.png"group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/YuppTV_logo.svg/2560px-YuppTV_logo.svg.png" group-title="YuppTV" , Polimer News
+https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/news7tamil-black.png"group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/YuppTV_logo.svg/2560px-YuppTV_logo.svg.png" group-title="YuppTV" , News7 Tamil
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/news7_nim_https/240122/news7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/thanthi-tv-black.png" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/YuppTV_logo.svg/2560px-YuppTV_logo.svg.png" group-title="YuppTV" , Thanthi TV
+https://segment.yuppcdn.net/110322/thanthi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/sirippoli-tv-black.png" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/YuppTV_logo.svg/2560px-YuppTV_logo.svg.png" group-title="YuppTV" , Sirippoli TV
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/kalaignar-tv-black.png" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/YuppTV_logo.svg/2560px-YuppTV_logo.svg.png" group-title="YuppTV" , Kalaignar TV
+https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/shakthi-tv-white.png" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/YuppTV_logo.svg/2560px-YuppTV_logo.svg.png" group-title="YuppTV" , Shakthi TV
+https://edge3-moblive.yuppcdn.net/transsd/smil:saktv10.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlCN4vwNXfIJKcU7EY82QcBa9wek5Fv5kJCw&s" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/YuppTV_logo.svg/2560px-YuppTV_logo.svg.png" group-title="YuppTV" , Star Tamil
+https://edge2-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/thala_tv_512X512_balck.png" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/YuppTV_logo.svg/2560px-YuppTV_logo.svg.png" group-title="YuppTV" , Thalaa TV
+https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/murasu-white.png" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/YuppTV_logo.svg/2560px-YuppTV_logo.svg.png" group-title="YuppTV" , Murasu
+https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/isai-aruvi-black.png" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/YuppTV_logo.svg/2560px-YuppTV_logo.svg.png" group-title="YuppTV" , Isai Aruvi
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8

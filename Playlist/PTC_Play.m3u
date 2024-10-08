@@ -1,0 +1,20 @@
+#EXTINF:-1 id="" group-logo="https://play-lh.googleusercontent.com/55B3H4odhw25jDVA93sVCSQM6RzoH9z39QuC8D_TiQhD2h9QLBdJaS3y68oauEvTO8w" group-title="PTC_PLAY" tvg-language="" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTC-Punjabi.png", PTC Punjabi
+https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/playlist.m3u8
+
+#EXTINF:-1 id="" group-logo="https://play-lh.googleusercontent.com/55B3H4odhw25jDVA93sVCSQM6RzoH9z39QuC8D_TiQhD2h9QLBdJaS3y68oauEvTO8w" group-title="PTC_PLAY" tvg-language="" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTC-NEWS.png", PTC News
+https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/playlist.m3u8
+
+#EXTINF:-1 id="" group-logo="https://play-lh.googleusercontent.com/55B3H4odhw25jDVA93sVCSQM6RzoH9z39QuC8D_TiQhD2h9QLBdJaS3y68oauEvTO8w" group-title="PTC_PLAY" tvg-language="" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTC-simran.png", PTC Simran
+https://streaming.ptcplay.com/ptcSimranINOne/smil:Live.smil/playlist.m3u8
+
+#EXTINF:-1 id="" group-logo="https://play-lh.googleusercontent.com/55B3H4odhw25jDVA93sVCSQM6RzoH9z39QuC8D_TiQhD2h9QLBdJaS3y68oauEvTO8w" group-title="PTC_PLAY" tvg-language="" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/DHOL-TV-1.png", PTC Dholtv
+https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8
+
+#EXTINF:-1 id="" group-logo="https://play-lh.googleusercontent.com/55B3H4odhw25jDVA93sVCSQM6RzoH9z39QuC8D_TiQhD2h9QLBdJaS3y68oauEvTO8w" group-title="PTC_PLAY" tvg-language="" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTC-GOLD.png", PTC Punjabi Gold
+https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/playlist.m3u8
+
+#EXTINF:-1 id="" group-logo="https://play-lh.googleusercontent.com/55B3H4odhw25jDVA93sVCSQM6RzoH9z39QuC8D_TiQhD2h9QLBdJaS3y68oauEvTO8w" group-title="PTC_PLAY" tvg-language="" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTC-Music.png", PTC Music
+https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
+
+#EXTINF:-1 id="" group-logo="https://play-lh.googleusercontent.com/55B3H4odhw25jDVA93sVCSQM6RzoH9z39QuC8D_TiQhD2h9QLBdJaS3y68oauEvTO8w" group-title="PTC_PLAY" tvg-language="" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTC-Chak-De.png", PTC Chak De
+https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/playlist.m3u8

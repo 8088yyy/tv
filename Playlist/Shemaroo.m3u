@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="2078" tvg-language="Hindi" group-logo="https://www.shemaroome.com/assets/shemaroome_logo.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_Umang.png" group-title="Shemaroome", Shemaroo Umang
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-umang-plus/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-language="Hindi" group-logo="https://www.shemaroome.com/assets/shemaroome_logo.png" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Bollywood-Classic/5bebef3ca609d202b30000d9/large_16_9_1725445788.jpg" group-title="Shemaroome", Shemaroo Bollywood
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-language="Hindi" group-logo="https://www.shemaroome.com/assets/shemaroome_logo.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyZDjm9edaPKYEmGug1w6GqFjtIQLJUSg2gAQdFanhAVrl-ydco4a270w&s=10" group-title="Shemaroome",Shemaroo Filmigaane
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
