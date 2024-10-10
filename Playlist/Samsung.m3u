@@ -1,4 +1,7 @@
+×××××××××××××× SAMSUNG TV PLUS ×××××××××××××××××
+
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml"
+
 #EXTINF:-1 channel-id="samsung-USBC6000219D" tvg-id="USBC6000219D" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC6000219D_20240919T222404SQUARE.png" group-title="Reality TV" tvg-chno="1000",Operation Repo
 https://jmp2.uk/sam-USBC6000219D.m3u8
 #EXTINF:-1 channel-id="samsung-US400002PS" tvg-id="US400002PS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400002PS_20240912T190101SQUARE.png" group-title="Comedy" tvg-chno="1001",Animation+
