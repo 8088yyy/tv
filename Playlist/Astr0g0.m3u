@@ -2,6 +2,8 @@
 
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml"
 
+  INDIAN
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad3cb242cde3b687e2398cd21eb9bd10:6ed9b4976a854a289ce62cac957a55d5
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Colors_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Indian",  Colors Hindi HD
@@ -62,7 +64,7 @@ https://linears-playback.astro.com.my/vsg/41GIrK80n_KdtqtE-0_xRZIjUVN773qSE_JPjb
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Indian", Zee Cinema
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
 
-
+  SPORTS
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
