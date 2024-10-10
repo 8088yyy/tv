@@ -1,6 +1,7 @@
 ×××××××××××××× AASTHA TV ×××××××××××××××××
 
 #EXTM3U
+
 #EXTINF:-1 tvg-id="" group-logo="https://d2ivesio5kogrp.cloudfront.net/static/aastha/images/aastha_logo_white.png" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/vwnnbv.jpeg" group-title="Aastha TV",Aatha Tamil
 https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8
 
