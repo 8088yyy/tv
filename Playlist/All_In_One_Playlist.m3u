@@ -1169,268 +1169,267 @@ https://cdn3.pishow.tv/live/281/master.m3u8
 ×××××××××××××× RIPTV ×××××××××××××××××
 
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://media.glassdoor.com/sql/2501884/ridsys-squarelogo-1667282272847.png" group-title="RIPTV",Ridsys HD
+group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://media.glassdoor.com/sql/2501884/ridsys-squarelogo-1667282272847.png" group-title="RIPTV",Ridsys HD
 http://ptu.ridsys.in/riptv/live/stream1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Tamil.png" group-title="RIPTV",Colors Tamil
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Tamil.png" group-title="RIPTV",Colors Tamil
 http://ptu.ridsys.in/riptv/live/stream2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/194409/200x200_KTV_194409_efd11a74-61c7-422d-9fcb-9329003f3459.png" group-title="RIPTV",Ktv
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://sund-images.sunnxt.com/194409/200x200_KTV_194409_efd11a74-61c7-422d-9fcb-9329003f3459.png" group-title="RIPTV",Ktv
 http://ptu.ridsys.in/riptv/live/stream3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/194408/200x200_SunTV_194408_87e8da9e-7476-4d8e-8aee-fb55105652c1.png" group-title="RIPTV",Suntv
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://sund-images.sunnxt.com/194408/200x200_SunTV_194408_87e8da9e-7476-4d8e-8aee-fb55105652c1.png" group-title="RIPTV",Suntv
 http://ptu.ridsys.in/riptv/live/stream4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/sirippoli-tv-white.png" group-title="RIPTV",Sirippoli
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/sirippoli-tv-white.png" group-title="RIPTV",Sirippoli
 http://ptu.ridsys.in/riptv/live/stream5/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ilD6zNqYzMP-hdAR0K5gUBAof-P1W5HBFHYmRKHSBgA36p55sfdD18vsE6Bndas2wMixLPqkXQ=s900" group-title="RIPTV",Oscar TV HD
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://yt3.googleusercontent.com/ilD6zNqYzMP-hdAR0K5gUBAof-P1W5HBFHYmRKHSBgA36p55sfdD18vsE6Bndas2wMixLPqkXQ=s900" group-title="RIPTV",Oscar TV HD
 http://ptu.ridsys.in/riptv/live/stream8/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="RIPTV",Raj Musix
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="RIPTV",Raj Musix
 http://ptu.ridsys.in/riptv/live/stream9/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/700/-/2024-10-12/241012420020.jpg" group-title="RIPTV",Jaya Max
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/700/-/2024-10-12/241012420020.jpg" group-title="RIPTV",Jaya Max
 http://ptu.ridsys.in/riptv/live/stream10/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="RIPTV",Jaya TV
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="RIPTV",Jaya TV
 http://ptu.ridsys.in/riptv/live/stream11/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwS6MpcWf0DT3GMQuCy6mtUBUWhG6MATl42w&s" group-title="RIPTV",Mercury Channel
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwS6MpcWf0DT3GMQuCy6mtUBUWhG6MATl42w&s" group-title="RIPTV",Mercury Channel
 http://ptu.ridsys.in/riptv/live/stream12/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIegVNi9da-JvU9FNxNUuRQ_NBQZt4zXggag&s" group-title="RIPTV",Deepam
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIegVNi9da-JvU9FNxNUuRQ_NBQZt4zXggag&s" group-title="RIPTV",Deepam
 http://ptu.ridsys.in/riptv/live/stream13/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ta/0/08/%E0%AE%9C%E0%AF%80_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D.png" group-title="RIPTV",Zee Tamil HD
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://upload.wikimedia.org/wikipedia/ta/0/08/%E0%AE%9C%E0%AF%80_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D.png" group-title="RIPTV",Zee Tamil HD
 http://ptu.ridsys.in/riptv/live/stream18/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Star_Vijay_logo_2023.png" group-title="RIPTV",Vijay TV
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Star_Vijay_logo_2023.png" group-title="RIPTV",Vijay TV
 http://ptu.ridsys.in/riptv/live/stream19/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="RIPTV",Thanthi TV
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="RIPTV",Thanthi TV
 http://ptu.ridsys.in/riptv/live/stream21/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png" group-title="RIPTV",Puthiya Thalaimurai
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png" group-title="RIPTV",Puthiya Thalaimurai
 http://ptu.ridsys.in/riptv/live/stream22/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/76_Tamil_channel.jpeg" group-title="RIPTV",7s Music
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/76_Tamil_channel.jpeg" group-title="RIPTV",7s Music
 http://ptu.ridsys.in/riptv/live/stream23/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJO5tzVi-xZWwarY2sRsZXoIIw_MXV4brsWQ&s" group-title="RIPTV",AMN TV HD
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJO5tzVi-xZWwarY2sRsZXoIIw_MXV4brsWQ&s" group-title="RIPTV",AMN TV HD
 http://ptu.ridsys.in/riptv/live/stream24/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/194410/200x200_SunMusic_194410_86c7c8b4-b24b-4a3f-a599-6c3df8bed22b.png" group-title="RIPTV",Sun Music
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://sund-images.sunnxt.com/194410/200x200_SunMusic_194410_86c7c8b4-b24b-4a3f-a599-6c3df8bed22b.png" group-title="RIPTV",Sun Music
 http://ptu.ridsys.in/riptv/live/stream25/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/700/-/2024-09-30/240930418008.jpg" group-title="RIPTV",Jaya Plus
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/700/-/2024-09-30/240930418008.jpg" group-title="RIPTV",Jaya Plus
 http://ptu.ridsys.in/riptv/live/stream29/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/pHMk1ZL0iT5Pjj3ViEYvYKu1Sm5VI4UzPh-6pBR_3Uuu8PpNaitUwUheJsA9v4x-JFpSSlrIkQ=s900" group-title="RIPTV",Rainbow TV
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://yt3.googleusercontent.com/pHMk1ZL0iT5Pjj3ViEYvYKu1Sm5VI4UzPh-6pBR_3Uuu8PpNaitUwUheJsA9v4x-JFpSSlrIkQ=s900" group-title="RIPTV",Rainbow TV
 http://ptu.ridsys.in/riptv/live/stream32/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/1A7fEmR78OQmD-NHxumJJH4Uz9wz8_719oeUKtx-jXcb2DJodWb-K9UkIFHQMcXOmEg6lprcv8o=s900" group-title="RIPTV",Kamala Media
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://yt3.googleusercontent.com/1A7fEmR78OQmD-NHxumJJH4Uz9wz8_719oeUKtx-jXcb2DJodWb-K9UkIFHQMcXOmEg6lprcv8o=s900" group-title="RIPTV",Kamala Media
 http://ptu.ridsys.in/riptv/live/stream35/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9bDtHpC/Untitled-design-7.png" group-title="RIPTV",Ajk TV
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://i.ibb.co/9bDtHpC/Untitled-design-7.png" group-title="RIPTV",Ajk TV
 http://ptu.ridsys.in/riptv/live/stream52/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/logo-adapt-pages/Mega%20Musiq.png" group-title="RIPTV",Mega Musiq
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/logo-adapt-pages/Mega%20Musiq.png" group-title="RIPTV",Mega Musiq
 http://ptu.ridsys.in/riptv/live/stream56/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="RIPTV",Star Sports 1 HD
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="RIPTV",Star Sports 1 HD
 http://ptu.ridsys.in/riptv/live/stream57/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/3/37/STAR_Movies_HD_logo.jpg" group-title="RIPTV",Star Movie HD
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://upload.wikimedia.org/wikipedia/ms/3/37/STAR_Movies_HD_logo.jpg" group-title="RIPTV",Star Movie HD
 http://ptu.ridsys.in/riptv/live/stream58/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/GGaffD1Cne0/hqdefault.jpg" group-title="RIPTV",Supreme
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://i.ytimg.com/vi/GGaffD1Cne0/hqdefault.jpg" group-title="RIPTV",Supreme
 http://ptu.ridsys.in/riptv/live/stream62/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ewsat.com/img/KIDS.png" group-title="RIPTV",Shaun Kids HD
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://ewsat.com/img/KIDS.png" group-title="RIPTV",Shaun Kids HD
 http://ptu.ridsys.in/riptv/live/stream63/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/isai-aruvi-white.png" group-title="RIPTV",Isaiaruvi
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/isai-aruvi-white.png" group-title="RIPTV",Isaiaruvi
 http://ptu.ridsys.in/riptv/live/stream65/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="RIPTV",AJK Movie HD
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="" group-title="RIPTV",AJK Movie HD
 http://ptu.ridsys.in/riptv/live/stream66/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GRYNgBT/Untitled-design-2.png" group-title="RIPTV",AJK Jai Krishna HD
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://i.ibb.co/GRYNgBT/Untitled-design-2.png" group-title="RIPTV",AJK Jai Krishna HD
 http://ptu.ridsys.in/riptv/live/stream67/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="RIPTV",Tianaa Music HD
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="" group-title="RIPTV",Tianaa Music HD
 http://ptu.ridsys.in/riptv/live/stream68/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/2TAnT8Fld_yOGBTch_yfp8Cj8TAeW9bvaiNF4T3IWJ0ru9ghPYlFOKSbHsnupzyM4KZ6iR93zw=s900" group-title="RIPTV",Mega TV
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://yt3.googleusercontent.com/2TAnT8Fld_yOGBTch_yfp8Cj8TAeW9bvaiNF4T3IWJ0ru9ghPYlFOKSbHsnupzyM4KZ6iR93zw=s900" group-title="RIPTV",Mega TV
 http://ptu.ridsys.in/riptv/live/stream69/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxtKz38/Untitled-design-5.png" group-title="RIPTV",Rina 4K
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://i.ibb.co/KxtKz38/Untitled-design-5.png" group-title="RIPTV",Rina 4K
 http://ptu.ridsys.in/riptv/live/stream71/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/194391/200x200_SunLife_194391_d464515e-939a-4b03-a0d9-29f67b67419b.png" group-title="RIPTV",Sun Life
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://sund-images.sunnxt.com/194391/200x200_SunLife_194391_d464515e-939a-4b03-a0d9-29f67b67419b.png" group-title="RIPTV",Sun Life
 http://ptu.ridsys.in/riptv/live/stream72/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="RIPTV",Raj TV
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="RIPTV",Raj TV
 http://ptu.ridsys.in/riptv/live/stream73/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo-new/nick%20wb.png" group-title="RIPTV",Nick
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo-new/nick%20wb.png" group-title="RIPTV",Nick
 http://ptu.ridsys.in/riptv/live/stream75/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo-new/pogo%20lcn%20451%20264x144.png" group-title="RIPTV",Pogo
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo-new/pogo%20lcn%20451%20264x144.png" group-title="RIPTV",Pogo
 http://ptu.ridsys.in/riptv/live/stream76/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="RIPTV",JVR Media
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="" group-title="RIPTV",JVR Media
 http://ptu.ridsys.in/riptv/live/stream77/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/mega-24.gif" group-title="RIPTV",Mega 24
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/mega-24.gif" group-title="RIPTV",Mega 24
 http://ptu.ridsys.in/riptv/live/stream80/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/2TAnT8Fld_yOGBTch_yfp8Cj8TAeW9bvaiNF4T3IWJ0ru9ghPYlFOKSbHsnupzyM4KZ6iR93zw=s900" group-title="RIPTV",Mega TV
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://yt3.googleusercontent.com/2TAnT8Fld_yOGBTch_yfp8Cj8TAeW9bvaiNF4T3IWJ0ru9ghPYlFOKSbHsnupzyM4KZ6iR93zw=s900" group-title="RIPTV",Mega TV
 http://ptu.ridsys.in/riptv/live/stream69/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" group-title="RIPTV",Raj Digital Plus
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" group-title="RIPTV",Raj Digital Plus
 http://ptu.ridsys.in/riptv/live/stream81/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="RIPTV",News 18 Tamilnadu
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="RIPTV",News 18 Tamilnadu
 http://ptu.ridsys.in/riptv/live/stream82/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Disney_Channel_text_logo_%282024%29.svg/800px-Disney_Channel_text_logo_%282024%29.svg.png" group-title="RIPTV",Disney Channel
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Disney_Channel_text_logo_%282024%29.svg/800px-Disney_Channel_text_logo_%282024%29.svg.png" group-title="RIPTV",Disney Channel
 http://ptu.ridsys.in/riptv/live/stream83/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ewsat.com/img/KIDS.png" group-title="RIPTV",Ajk Kids
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://ewsat.com/img/KIDS.png" group-title="RIPTV",Ajk Kids
 http://ptu.ridsys.in/riptv/live/stream85/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png" group-title="RIPTV",Jaya Movies
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png" group-title="RIPTV",Jaya Movies
 http://ptu.ridsys.in/riptv/live/stream86/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="RIPTV",Aruo High Definition
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="" group-title="RIPTV",Aruo High Definition
 http://ptu.ridsys.in/riptv/live/stream87/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="RIPTV",Sarah Movie HD
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="" group-title="RIPTV",Sarah Movie HD
 http://ptu.ridsys.in/riptv/live/stream88/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrRymnH/Untitled-design-1.png" group-title="RIPTV",Ajk 4K
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://i.ibb.co/wrRymnH/Untitled-design-1.png" group-title="RIPTV",Ajk 4K
 http://ptu.ridsys.in/riptv/live/stream89/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/700/-/2024-10-10/241010727019.jpg" group-title="RIPTV", Vasanth TV
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/700/-/2024-10-10/241010727019.jpg" group-title="RIPTV", Vasanth TV
 http://ptu.ridsys.in/riptv/live/stream92/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/700/-/2024-09-25/240925286024.jpg" group-title="RIPTV", Animal Planet HD
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/700/-/2024-09-25/240925286024.jpg" group-title="RIPTV", Animal Planet HD
 http://ptu.ridsys.in/riptv/live/stream93/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Makkal_TV.png" group-title="RIPTV", Makkal TV
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Makkal_TV.png" group-title="RIPTV", Makkal TV
 http://ptu.ridsys.in/riptv/live/stream97/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/700/-/2024-09-25/2409251954000.jpg" group-title="RIPTV", News Tamil 24x7
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/700/-/2024-09-25/2409251954000.jpg" group-title="RIPTV", News Tamil 24x7
 http://ptu.ridsys.in/riptv/live/stream99/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="RIPTV", Polimer News
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="RIPTV", Polimer News
 http://ptu.ridsys.in/riptv/live/stream100/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/700/-/2024-09-28/240928673013.jpg" group-title="RIPTV", News 7 Tamil
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/700/-/2024-09-28/240928673013.jpg" group-title="RIPTV", News 7 Tamil
 http://ptu.ridsys.in/riptv/live/stream101/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.gboombaa.com/wp-content/uploads/2020/07/Channel_Logo_SHAKTHI_LOGO_4K_00038-300x180.png" group-title="RIPTV", Shakthi Channel 4K
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://www.gboombaa.com/wp-content/uploads/2020/07/Channel_Logo_SHAKTHI_LOGO_4K_00038-300x180.png" group-title="RIPTV", Shakthi Channel 4K
 http://ptu.ridsys.in/riptv/live/stream102/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/194385/1000x1000_SuryaMovies_194385_0a1fbf90-a86a-4580-bdd8-36c6d1826c46.png" group-title="RIPTV", Surya Movie
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://sund-images.sunnxt.com/194385/1000x1000_SuryaMovies_194385_0a1fbf90-a86a-4580-bdd8-36c6d1826c46.png" group-title="RIPTV", Surya Movie
 http://ptu.ridsys.in/riptv/live/stream103/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/193239/1000x1000_UdayaTV_193239_ec435a3b-aad0-44e1-9c70-fc572199add9.png" group-title="RIPTV", Udaya TV
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://sund-images.sunnxt.com/193239/1000x1000_UdayaTV_193239_ec435a3b-aad0-44e1-9c70-fc572199add9.png" group-title="RIPTV", Udaya TV
 http://ptu.ridsys.in/riptv/live/stream105/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/194396/1000x1000_GeminiTV_194396_068bbb03-8548-4cff-af0b-556f5a2e2128.png" group-title="RIPTV", Gemini TV
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://sund-images.sunnxt.com/194396/1000x1000_GeminiTV_194396_068bbb03-8548-4cff-af0b-556f5a2e2128.png" group-title="RIPTV", Gemini TV
 http://ptu.ridsys.in/riptv/live/stream106/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/194384/200x200_GeminiMovies_194384_abbba9d4-509e-46d5-8808-59efe178a4c2.png" group-title="RIPTV", Gemini Movie
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://sund-images.sunnxt.com/194384/200x200_GeminiMovies_194384_abbba9d4-509e-46d5-8808-59efe178a4c2.png" group-title="RIPTV", Gemini Movie
 http://ptu.ridsys.in/riptv/live/stream107/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/194395/200x200_GeminiMusic_194395_9b2cc3b0-9732-4bf8-9efc-fed04d9bc9df.png" group-title="RIPTV" , Gemini Music
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://sund-images.sunnxt.com/194395/200x200_GeminiMusic_194395_9b2cc3b0-9732-4bf8-9efc-fed04d9bc9df.png" group-title="RIPTV" , Gemini Music
 http://ptu.ridsys.in/riptv/live/stream108/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="RIPTV" , Zee TV
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="RIPTV" , Zee TV
 http://ptu.ridsys.in/riptv/live/stream109/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d8/Star_Vijay_Super.png/revision/latest/scale-to-width-down/645?cb=20230126023557&path-prefix=vi" group-title="RIPTV" , Vijay Super
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d8/Star_Vijay_Super.png/revision/latest/scale-to-width-down/645?cb=20230126023557&path-prefix=vi" group-title="RIPTV" , Vijay Super
 http://ptu.ridsys.in/riptv/live/stream110/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Moon_Tv.png" group-title="RIPTV", Moon TV
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Moon_Tv.png" group-title="RIPTV", Moon TV
 http://ptu.ridsys.in/riptv/live/stream111/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="RIPTV" , Vaanavil
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="" group-title="RIPTV" , Vaanavil
 http://ptu.ridsys.in/riptv/live/stream112/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/800px-FRANCE_24_logo.svg.png" group-title="RIPTV" , France 24
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/800px-FRANCE_24_logo.svg.png" group-title="RIPTV" , France 24
 http://ptu.ridsys.in/riptv/live/stream113/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/pB_InSVxo8PJab1mjdyHxw4RzyErSbzXoYC0ZjHMVhhLYU2pxh2VuMfj7hLhsNu_ZS-GVyQu=s900" group-title="RIPTV" , Goldmines Movies
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://yt3.googleusercontent.com/pB_InSVxo8PJab1mjdyHxw4RzyErSbzXoYC0ZjHMVhhLYU2pxh2VuMfj7hLhsNu_ZS-GVyQu=s900" group-title="RIPTV" , Goldmines Movies
 http://ptu.ridsys.in/riptv/live/stream114/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/PszoKT_R-8zXfGM8r0LpqVFQboFbr1jq9NVVrndL7c-uZTMoZft03USuejGI16LV1y11v7Omvg=s900-c-k-c0x00ffffff-no-rj" group-title="RIPTV" , MBC TV
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://yt3.googleusercontent.com/PszoKT_R-8zXfGM8r0LpqVFQboFbr1jq9NVVrndL7c-uZTMoZft03USuejGI16LV1y11v7Omvg=s900-c-k-c0x00ffffff-no-rj" group-title="RIPTV" , MBC TV
 http://ptu.ridsys.in/riptv/live/stream115/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/250/250/bnw/hindu-dharmam-black.png" group-title="RIPTV" , Hindu Dharmam
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/250/250/bnw/hindu-dharmam-black.png" group-title="RIPTV" , Hindu Dharmam
 http://ptu.ridsys.in/riptv/live/stream116/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n20PkbC3DW3YtOebiHxd9s_v3iIyIfLISJ8UyhOmH3jq0=s900-c-k-c0x00ffffff-no-rj" group-title="RIPTV" , DD Urdu
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n20PkbC3DW3YtOebiHxd9s_v3iIyIfLISJ8UyhOmH3jq0=s900-c-k-c0x00ffffff-no-rj" group-title="RIPTV" , DD Urdu
 http://ptu.ridsys.in/riptv/live/stream117/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/700/-/2024-10-09/2410091066012.jpg" group-title="RIPTV" , Q TV
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/700/-/2024-10-09/2410091066012.jpg" group-title="RIPTV" , Q TV
 http://ptu.ridsys.in/riptv/live/stream118/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="RIPTV", Sony Max HD
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="RIPTV", Sony Max HD
 http://ptu.ridsys.in/riptv/live/stream119/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="RIPTV" , Sony Sports 2 HD
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="RIPTV" , Sony Sports 2 HD
 http://ptu.ridsys.in/riptv/live/stream120/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.zawya.com/view/acePublic/alias/contentid/NDliZDE0MWMtMzgwYy00/0/salaam_tv_eng-1-png" group-title="RIPTV" , Salaam TV
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://static.zawya.com/view/acePublic/alias/contentid/NDliZDE0MWMtMzgwYy00/0/salaam_tv_eng-1-png" group-title="RIPTV" , Salaam TV
 http://ptu.ridsys.in/riptv/live/stream121/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1390686656764604417/qskOYpUM_400x400.png" group-title="RIPTV" , Asirvatham
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://pbs.twimg.com/profile_images/1390686656764604417/qskOYpUM_400x400.png" group-title="RIPTV" , Asirvatham
 http://ptu.ridsys.in/riptv/live/stream122/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/j3NdbwgecYk/hq720.jpg" group-title="RIPTV" , JVR Media News
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://i.ytimg.com/vi/j3NdbwgecYk/hq720.jpg" group-title="RIPTV" , JVR Media News
 http://ptu.ridsys.in/riptv/live/stream123/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kCR-RditKqzaFivXZR_uivXHgG3et4MRrvuqRwebm78Rk=s900" group-title="RIPTV" , Eye TV
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kCR-RditKqzaFivXZR_uivXHgG3et4MRrvuqRwebm78Rk=s900" group-title="RIPTV" , Eye TV
 http://ptu.ridsys.in/riptv/live/stream125/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lL2s3OZUlq3SH3j3FVdr4q-Lhrfc96AqbvvLybuSGFTg=s900" group-title="RIPTV" , Ragava Vision
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lL2s3OZUlq3SH3j3FVdr4q-Lhrfc96AqbvvLybuSGFTg=s900" group-title="RIPTV" , Ragava Vision
 http://ptu.ridsys.in/riptv/live/stream126/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://content.jdmagicbox.com/comp/pondicherry/t3/0413px413.x413.130711111428.n1t3/catalogue/s-media-pondicherry-ho-pondicherry-satellite-channels-d9s80u.jpg" group-title="RIPTV" , S Media HD
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://content.jdmagicbox.com/comp/pondicherry/t3/0413px413.x413.130711111428.n1t3/catalogue/s-media-pondicherry-ho-pondicherry-satellite-channels-d9s80u.jpg" group-title="RIPTV" , S Media HD
 http://ptu.ridsys.in/riptv/live/stream127/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSq9RyNu0gQxXmLHF2JJe4eS96loRTY0QmUg&s" group-title="RIPTV" , 4K Ultra HD
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSq9RyNu0gQxXmLHF2JJe4eS96loRTY0QmUg&s" group-title="RIPTV" , 4K Ultra HD
 http://ptu.ridsys.in/riptv/live/stream128/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZS5MQ6ST6SG7zSc5BICJ5e7pje74cQhW9A&s" group-title="RIPTV" , Neyam TV
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZS5MQ6ST6SG7zSc5BICJ5e7pje74cQhW9A&s" group-title="RIPTV" , Neyam TV
 http://ptu.ridsys.in/riptv/live/stream129/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/6SdTSseMUHQ3wl8IKGbmdDWKmAZybUGmJjTbvMuKx6dximFkC6raZn_69Mk-AFPIdzGtf2BksQ=s900" group-title="RIPTV", Nammavar TV
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://yt3.googleusercontent.com/6SdTSseMUHQ3wl8IKGbmdDWKmAZybUGmJjTbvMuKx6dximFkC6raZn_69Mk-AFPIdzGtf2BksQ=s900" group-title="RIPTV", Nammavar TV
 http://ptu.ridsys.in/riptv/live/stream130/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EuF5Kp9.png" group-title="RIPTV" , Skysat TV
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://i.imgur.com/EuF5Kp9.png" group-title="RIPTV" , Skysat TV
 http://ptu.ridsys.in/riptv/live/stream132/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtiuvq3x1m5qyj78kurlFVYh8uEAxYsaaY_eA_-A3XXnqup1gWsH-uoA-lWmP6X5oQqYk" group-title="RIPTV" , Sun Media 4K
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtiuvq3x1m5qyj78kurlFVYh8uEAxYsaaY_eA_-A3XXnqup1gWsH-uoA-lWmP6X5oQqYk" group-title="RIPTV" , Sun Media 4K
 http://ptu.ridsys.in/riptv/live/stream133/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rujumargam_TV.png" group-title="RIPTV" , Mercy TV
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rujumargam_TV.png" group-title="RIPTV" , Mercy TV
 http://ptu.ridsys.in/riptv/live/stream134/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/MV_Digital_Network.jpg/" group-title="RIPTV" , Mv Digital Network HD
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/MV_Digital_Network.jpg/" group-title="RIPTV" , Mv Digital Network HD
 http://ptu.ridsys.in/riptv/live/stream135/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Adithya_TV.png" group-title="RIPTV", Adithya TV
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Adithya_TV.png" group-title="RIPTV", Adithya TV
 http://ptu.ridsys.in/riptv/live/stream136/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ewsat.com/img/KIDS.png" group-title="RIPTV" , AJK Kids
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://ewsat.com/img/KIDS.png" group-title="RIPTV" , AJK Kids
 http://ptu.ridsys.in/riptv/live/stream301/index.m3u8
-
 
 
 
