@@ -64,6 +64,16 @@ https://linears-playback.astro.com.my/vsg/41GIrK80n_KdtqtE-0_xRZIjUVN773qSE_JPjb
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Indian", Zee Cinema
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a171cc1bb90f78820cf25cc55f0ee10:ac08792047218ca2a01f2bbd12d90501
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sun-News.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Indian",  Sun News
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5087/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3e1be94e6c193fa21787ce8435db610:726304708c429f613ec2dc53619d6f76
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sun-Life.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Indian",  Sun Life
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5089/default_primary.mpd
+
   SPORTS
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
