@@ -91,10 +91,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Sports", Arena Bola
 https://mt24.aa.astro.com.my/linears-playback.astro.com.my/vsg/41XySZ-WG3SkTZJYHLDUKROF3y1dGJuHAivzwXoKMP7Ok=UrIZ/dash-wv/jitp-linearwm/5099/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/logo_screen.png" group-title="AstroGO: Sports", Arena Bola 2
-https://linears-playback.astro.com.my/vsg/41CUtwQsrqw9nQdAIXIsBVw8XjLktU9MROAoRMaFniYwA=Olv0/dash-wv/jitp-linearwm/5100/default_primary.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7hrhzQhvqb/AUF5tXp4n6Q", "kid":"isiy968FrYKYBTRaUXvBEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="Astro UHD" group-title="Sports|AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://telegra.ph/file/b9cd859a14c1c4ba3c9e8.png",Astro Supersport UHD (1600) CH805
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
