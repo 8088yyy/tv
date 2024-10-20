@@ -14,8 +14,5 @@ http://opplextv.cyou:8080/live/518340/238497/383798.ts
 #EXTINF:-1 group-logo="https://i.imgur.com/L00lFdf.png" group-title="BIGG BOSS 24x7 LIVE" tvg-logo="https://i.imgur.com/kV1m6uP.jpeg",BB TELUGU 24x7 LIVE - Source 1
 http://opplextv.cyou:8080/live/518340/238497/383800.ts
 
-#EXTINF:-1 group-logo="https://i.imgur.com/L00lFdf.png" group-title="BIGG BOSS 24x7 LIVE" tvg-logo="https://i.imgur.com/l5uD43t.jpeg",BB HINDI 24x7 LIVE FHD
-https://prod-ent-live-cf.jiocinema.com/hls/live/2101885/uhd_akamai_atv_avc_24x7_bbhindi_s18_day01/master.m3u8
-
-#EXTINF:-1 group-logo="https://i.imgur.com/L00lFdf.png" group-title="BIGG BOSS 24x7 LIVE" tvg-logo="https://i.imgur.com/l5uD43t.jpeg",BB HINDI 24x7 LIVE HD
+#EXTINF:-1 group-logo="https://i.imgur.com/L00lFdf.png" group-title="BIGG BOSS 24x7 LIVE" tvg-logo="https://i.imgur.com/l5uD43t.jpeg",BB HINDI 24x7 LIVE
 https://prod-ent-live-gm.jiocinema.com/hls/live/2105436/hd_akamai_iosmob_avc_24x7_bbhindi_s18_day01/master.m3u8
