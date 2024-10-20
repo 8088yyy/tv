@@ -866,7 +866,7 @@ https://ythls-v3.onrender.com/channel/UCZinho9wu3iAeRpUXvAMzBQ.m3u8
 
    -EXTRA NEWS-
    
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/CNN_NEWS_18.png" , CNN News18
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/CNN_NEWS_18.png" group-title="News", CNN News18
 https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
    
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/CNBC_Tv_18.png" group-title="News", CNBC TV18
