@@ -8,22 +8,22 @@
 
 ============================ BIGG BOSS 24x7 LIVE ============================
 
-#EXTINF:-1  group-title="BIGG BOSS 24x7 LIVE" tvg-logo="https://i.imgur.com/yehwTNW.jpeg",BB TAMIL 24x7 LIVE - Source 1
+#EXTINF:-1  group-title="Bigg Boss 24x7 Live" tvg-logo="https://i.imgur.com/yehwTNW.jpeg", BB Tamil 24x7 Live - Source 1
 https://live.tamiltool.online/livetamil/index.m3u8
 
-#EXTINF:-1  group-title="BIGG BOSS 24x7 LIVE" tvg-logo="https://i.imgur.com/yehwTNW.jpeg",BB TAMIL 24x7 LIVE - Source 2
+#EXTINF:-1  group-title="Bigg Boss 24x7 Live" tvg-logo="https://i.imgur.com/yehwTNW.jpeg", BB Tamil 24x7 Live - Source 2
 http://opplextv.cyou:8080/live/518340/238497/383798.ts
 
-#EXTINF:-1  group-title="BIGG BOSS 24x7 LIVE" tvg-logo="https://i.imgur.com/yehwTNW.jpeg",BB TAMIL 24x7 LIVE - Source 3
+#EXTINF:-1  group-title="Bigg Boss 24x7 Live" tvg-logo="https://i.imgur.com/yehwTNW.jpeg", BB Tamil 24x7 Live - Source 3
 https://stream.vstartv.org:3511/hybrid/play.m3u8
 
-#EXTINF:-1  group-title="BIGG BOSS 24x7 LIVE" tvg-logo="https://i.imgur.com/kV1m6uP.jpeg",BB TELUGU 24x7 LIVE - Source 1
+#EXTINF:-1  group-title="Bigg Boss 24x7 Live" tvg-logo="https://i.imgur.com/kV1m6uP.jpeg", BB Telugu 24x7 Live - Source 1
 http://tv.cloudcdn.me/live.ts?channelId=132347&uid=1384&deviceMac=00:1A:79:00:86:A7
 
-#EXTINF:-1  group-title="BIGG BOSS 24x7 LIVE" tvg-logo="https://i.imgur.com/kV1m6uP.jpeg",BB TELUGU 24x7 LIVE - Source 2
+#EXTINF:-1  group-title="Bigg Boss 24x7 Live" tvg-logo="https://i.imgur.com/kV1m6uP.jpeg", BB Telugu 24x7 Live - Source 2
 http://opplextv.cyou:8080/live/518340/238497/383800.ts
 
-#EXTINF:-1  group-title="BIGG BOSS 24x7 LIVE" tvg-logo="https://i.imgur.com/l5uD43t.jpeg",BB HINDI 24x7 LIVE
+#EXTINF:-1  group-title="Bigg Boss 24x7 Live" tvg-logo="https://i.imgur.com/l5uD43t.jpeg", BB Hindi 24x7 Live
 https://prod-ent-live-gm.jiocinema.com/hls/live/2105436/hd_akamai_iosmob_avc_24x7_bbhindi_s18_day01/master.m3u8
 
 
@@ -1460,98 +1460,97 @@ https://live.we2live.in/rcntv/rcntv/playlist.m3u8
 
    -Chennai-
    
-#EXTINF:-1 tvg-logo="" group-title="FM Radio", Chennai FM Rainbow 101.4 FM
+#EXTINF:-1 tvg-logo="" group-title="Radio", Chennai FM Rainbow 101.4 FM
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio022/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FM Radio", Radio Mirchi Tamil 98.3 FM
+#EXTINF:-1 tvg-logo="" group-title="Radio", Radio Mirchi Tamil 98.3 FM
 https://tamil.crabdance.com:8002/1
-#EXTINF:-1 tvg-logo="" group-title="FM Radio", Suryan 93.5 FM
+#EXTINF:-1 tvg-logo="" group-title="Radio", Suryan 93.5 FM
 https://tamil.crabdance.com:8002/2
-#EXTINF:-1 tvg-logo="" group-title="FM Radio", Vividh Bharati 100.5 FM
+#EXTINF:-1 tvg-logo="" group-title="Radio", Vividh Bharati 100.5 FM
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio024/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FM Radio", Radio City 91.1 FM
+#EXTINF:-1 tvg-logo="" group-title="Radio", Radio City 91.1 FM
 https://tamil.crabdance.com:8002/5
-#EXTINF:-1 tvg-logo="" group-title="FM Radio", Radio Hello 106.4 FM
+#EXTINF:-1 tvg-logo="" group-title="Radio", Radio Hello 106.4 FM
 https://stream-157.zeno.fm/20cv0z9gg0quv
-#EXTINF:-1 tvg-logo="" group-title="FM Radio", BIG 92.7 FM
+#EXTINF:-1 tvg-logo="" group-title="Radio", BIG 92.7 FM
 https://tamil.crabdance.com:8002/4
-#EXTINF:-1 tvg-logo="" group-title="FM Radio", Radio ChennaiLive 104.8 FM
+#EXTINF:-1 tvg-logo="" group-title="Radio", Radio ChennaiLive 104.8 FM
 https://vobook.ru/http://c2.radioboss.fm:8332/stream
-#EXTINF:-1 tvg-logo="" group-title="FM Radio", Air FM Gold Chennai
+#EXTINF:-1 tvg-logo="" group-title="Radio", Air FM Gold Chennai
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio021/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FM Radio", All India Radio AIR CHENNAI PC 720 AM
+#EXTINF:-1 tvg-logo="" group-title="Radio", All India Radio AIR CHENNAI PC 720 AM
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FM Radio", Radio Raaja FM
+#EXTINF:-1 tvg-logo="" group-title="Radio", Radio Raaja FM
 https://vobook.ru/http://live.tamilkuyilradio.com:8026/rajaradio
-#EXTINF:-1 tvg-logo="" group-title="FM Radio", Radio Naam Tamilar FM
+#EXTINF:-1 tvg-logo="" group-title="Radio", Radio Naam Tamilar FM
 https://www.liveradio.es/http://stream.zeno.fm/31gmzkvdh6quv
 
    -Coimbatore-
    
-#EXTINF:-1 tvg-logo="" group-title="FM Radio", Air Rainbow 103 FM
+#EXTINF:-1 tvg-logo="" group-title="Radio", Air Rainbow 103 FM
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio017/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FM Radio", Radio Hello 106.4 FM
+#EXTINF:-1 tvg-logo="" group-title="Radio", Radio Hello 106.4 FM
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio022/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FM Radio", All India Radio AIR Coimbatore 999 AM
+#EXTINF:-1 tvg-logo="" group-title="Radio", All India Radio AIR Coimbatore 999 AM
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio016/chunklist.m3u8
 
    -Madurai-
    
-#EXTINF:-1 tvg-logo="" group-title="FM Radio", All India Radio Air Akashvani 103.3 FM
+#EXTINF:-1 tvg-logo="" group-title="Radio", All India Radio Air Akashvani 103.3 FM
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio00264kbps.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FM Radio", SS Radio Madurai
+#EXTINF:-1 tvg-logo="" group-title="Radio", SS Radio Madurai
 https://stream-172.zeno.fm/3dact43wqg0uv
 
    -Tiruchirappalli-
    
-#EXTINF:-1 tvg-logo="" group-title="FM Radio", Air Rainbow 102.1 FM
+#EXTINF:-1 tvg-logo="" group-title="Radio", Air Rainbow 102.1 FM
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00464kbps.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FM Radio", All India Radio AIR Tiruchirappalli FM 102.1 FM
+#EXTINF:-1 tvg-logo="" group-title="Radio", All India Radio AIR Tiruchirappalli FM 102.1 FM
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio040/chunklist.m3u8
 
    -Salem-
   
-#EXTINF:-1 tvg-logo="" group-title="FM Radio", All India Radio Air Akashvani 100.9 FM
+#EXTINF:-1 tvg-logo="" group-title="Radio", All India Radio Air Akashvani 100.9 FM
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio00264kbps.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FM Radio", Sona FM 107.8
+#EXTINF:-1 tvg-logo="" group-title="Radio", Sona FM 107.8
 https://d25mebek0b74k4.cloudfront.net/valliapparadio.m3u8
 
    -Tirunelveli-
 
-#EXTINF:-1 tvg-logo="" group-title="FM Radio", All India Radio Air Akashvani 102.6 FM
+#EXTINF:-1 tvg-logo="" group-title="Radio", All India Radio Air Akashvani 102.6 FM
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio00264kbps.m3u8
 
    -Kodaikanal-
    
-#EXTINF:-1 tvg-logo="" group-title="FM Radio", All India Radio AIR Kodaikanal
+#EXTINF:-1 tvg-logo="" group-title="Radio", All India Radio AIR Kodaikanal
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio051/chunklist.m3u8
 
    -Thoothukudi-
    
-#EXTINF:-1 tvg-logo="" group-title="FM Radio", All India Radio AIR Tuticorin 1053 AM
+#EXTINF:-1 tvg-logo="" group-title="Radio", All India Radio AIR Tuticorin 1053 AM
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio121/chunklist.m3u8
 
    -Nagercoil-
    
-#EXTINF:-1 tvg-logo="" group-title="FM Radio", All India Radio AIR Nagercoil Kumari FM 101 FM
+#EXTINF:-1 tvg-logo="" group-title="Radio", All India Radio AIR Nagercoil Kumari FM 101 FM
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio207/chunklist.m3u8
 
    -Thanjavur-
    
-#EXTINF:-1 tvg-logo="" group-title="FM Radio", Air Rainbow 101.2 FM
+#EXTINF:-1 tvg-logo="" group-title="Radio", Air Rainbow 101.2 FM
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00464kbps.m3u8
 
    -Vellore-
    
-#EXTINF:-1 tvg-logo="" group-title="FM Radio", Mjoy Mjms FM
+#EXTINF:-1 tvg-logo="" group-title="Radio", Mjoy Mjms FM
 http://stream-163.zeno.fm/e7yqb8fe84zuv
 
    -Karur-
    
-#EXTINF:-1 tvg-logo="" group-title="FM Radio", Thedal FM
+#EXTINF:-1 tvg-logo="" group-title="Radio", Thedal FM
 https://thedalfm.radioca.st/stream
 
    -Dharmapuri-
    
-#EXTINF:-1 tvg-logo="" group-title="FM Radio", All India Radio Air Akashvani 102.5 FM
+#EXTINF:-1 tvg-logo="" group-title="Radio", All India Radio Air Akashvani 102.5 FM
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio00264kbps.m3u8
-
