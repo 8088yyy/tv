@@ -8,22 +8,22 @@
 
 ============================ BIGG BOSS 24x7 LIVE ============================
 
-#EXTINF:-1 group-logo="https://i.imgur.com/L00lFdf.png" group-title="BIGG BOSS 24x7 LIVE" tvg-logo="https://i.imgur.com/yehwTNW.jpeg",BB TAMIL 24x7 LIVE - Source 1
+#EXTINF:-1  group-title="BIGG BOSS 24x7 LIVE" tvg-logo="https://i.imgur.com/yehwTNW.jpeg",BB TAMIL 24x7 LIVE - Source 1
 https://live.tamiltool.online/livetamil/index.m3u8
 
-#EXTINF:-1 group-logo="https://i.imgur.com/L00lFdf.png" group-title="BIGG BOSS 24x7 LIVE" tvg-logo="https://i.imgur.com/yehwTNW.jpeg",BB TAMIL 24x7 LIVE - Source 2
+#EXTINF:-1  group-title="BIGG BOSS 24x7 LIVE" tvg-logo="https://i.imgur.com/yehwTNW.jpeg",BB TAMIL 24x7 LIVE - Source 2
 http://opplextv.cyou:8080/live/518340/238497/383798.ts
 
-#EXTINF:-1 group-logo="https://i.imgur.com/L00lFdf.png" group-title="BIGG BOSS 24x7 LIVE" tvg-logo="https://i.imgur.com/yehwTNW.jpeg",BB TAMIL 24x7 LIVE - Source 3
+#EXTINF:-1  group-title="BIGG BOSS 24x7 LIVE" tvg-logo="https://i.imgur.com/yehwTNW.jpeg",BB TAMIL 24x7 LIVE - Source 3
 https://stream.vstartv.org:3511/hybrid/play.m3u8
 
-#EXTINF:-1 group-logo="https://i.imgur.com/L00lFdf.png" group-title="BIGG BOSS 24x7 LIVE" tvg-logo="https://i.imgur.com/kV1m6uP.jpeg",BB TELUGU 24x7 LIVE - Source 1
+#EXTINF:-1  group-title="BIGG BOSS 24x7 LIVE" tvg-logo="https://i.imgur.com/kV1m6uP.jpeg",BB TELUGU 24x7 LIVE - Source 1
 http://tv.cloudcdn.me/live.ts?channelId=132347&uid=1384&deviceMac=00:1A:79:00:86:A7
 
-#EXTINF:-1 group-logo="https://i.imgur.com/L00lFdf.png" group-title="BIGG BOSS 24x7 LIVE" tvg-logo="https://i.imgur.com/kV1m6uP.jpeg",BB TELUGU 24x7 LIVE - Source 2
+#EXTINF:-1  group-title="BIGG BOSS 24x7 LIVE" tvg-logo="https://i.imgur.com/kV1m6uP.jpeg",BB TELUGU 24x7 LIVE - Source 2
 http://opplextv.cyou:8080/live/518340/238497/383800.ts
 
-#EXTINF:-1 group-logo="https://i.imgur.com/L00lFdf.png" group-title="BIGG BOSS 24x7 LIVE" tvg-logo="https://i.imgur.com/l5uD43t.jpeg",BB HINDI 24x7 LIVE
+#EXTINF:-1  group-title="BIGG BOSS 24x7 LIVE" tvg-logo="https://i.imgur.com/l5uD43t.jpeg",BB HINDI 24x7 LIVE
 https://prod-ent-live-gm.jiocinema.com/hls/live/2105436/hd_akamai_iosmob_avc_24x7_bbhindi_s18_day01/master.m3u8
 
 
