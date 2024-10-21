@@ -9,7 +9,7 @@
 ============================ BIGG BOSS 24x7 LIVE ============================
 
 #EXTINF:-1  group-title="Bigg Boss 24x7 Live" tvg-logo="https://i.imgur.com/yehwTNW.jpeg", BB Tamil 24x7 Live - Source 1
-https://live.tamiltool.online/livetamil/index.m3u8
+https://tamilultra.tv/master.m3u8?c=BBTAMIL&server=1|referer=https://tamilultra.tv/
 
 #EXTINF:-1  group-title="Bigg Boss 24x7 Live" tvg-logo="https://i.imgur.com/yehwTNW.jpeg", BB Tamil 24x7 Live - Source 2
 http://opplextv.cyou:8080/live/518340/238497/383798.ts
